@@ -1,4 +1,4 @@
-import PropTypes, { shape } from 'prop-types';
+import PropTypes from 'prop-types';
 import s from './Section.module.css';
 
 function Section({ title, children }) {
