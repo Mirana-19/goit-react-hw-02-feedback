@@ -1,0 +1,16 @@
+.good {
+  border-radius: 5px;
+  background-color: lightgreen;
+}
+
+.neutral {
+  border-radius: 5px;
+
+  background-color: lightyellow;
+}
+
+.bad {
+  border-radius: 5px;
+
+  background-color: lightcoral;
+}
